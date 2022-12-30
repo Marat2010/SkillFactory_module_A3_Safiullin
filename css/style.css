@@ -661,7 +661,8 @@ p {
 	border-radius: 5px;
 	margin-right: 22px;
 	background-color: #fff;
-	letter-spacing: 0.06ex;
+	letter-spacing: 0.09ex;
+	font-size: 16px;
 }
 
 .subscribe__form .subscribe__button {
@@ -754,6 +755,7 @@ p {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	font-size: 16px;
 }
 
 .feedback__input {
@@ -775,7 +777,7 @@ p {
 	width: 339px;
 	height: 69px;
 	background-color: #f3f3f3;
-	letter-spacing: 0.2ex;
+	letter-spacing: 0.28ex;
 }
 
 .feedback__mail {
